@@ -17,7 +17,12 @@
                   "lastUpdateDate": "2018-01-28T00:00:00+00:00",
                   "thumbnailURL": "https://github.com/marcelo-paredes/YCLMazeMakerPlaygroundsBook/raw/master/thumbnail.png",
                   "bnnerImageURL": "https://github.com/marcelo-paredes/YCLMazeMakerPlaygroundsBook/raw/master/banner.png",
-                  "additionalInformation": [],
+                  "additionalInformation": [
+                  {
+                                            "name": "Languages",
+                                            "value": "English"
+                  }
+                  ],
                   "previewImageURLs": []
     ]
 }
