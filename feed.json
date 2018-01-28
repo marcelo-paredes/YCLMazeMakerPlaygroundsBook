@@ -23,6 +23,8 @@
                                             "value": "English"
                   }
                   ],
-                  "previewImageURLs": []
+                  "previewImageURLs": [
+                  "https://github.com/marcelo-paredes/YCLMazeMakerPlaygroundsBook/raw/master/preview1.png"
+                  ]
     ]
 }
