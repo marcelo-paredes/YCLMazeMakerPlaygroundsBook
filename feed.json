@@ -1,8 +1,9 @@
 {
     "formatVersion": "1.0",
     "title": "YCLMazeMakerPlaygroundBook",
+    "overviewSubtitle": "Simple maze making tools",
     "publisherName": "Marcelo Paredes",
-    "feedIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1.feed"
+    "feedIdentifier": "cl.yurai.games.3d.playgrounds.Mazes1"
     "contactURL": "https://www.facebook.com/yurai.cl",
     "documents": [
                   "title": "YCLMazeMaker",
