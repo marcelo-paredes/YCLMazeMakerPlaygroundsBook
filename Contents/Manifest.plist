@@ -15,7 +15,7 @@
 	<key>ContentVersion</key>
 	<string>1.0</string>
 	<key>ContentIdentifier</key>
-	<string>cl.yurai.games.3d.playgrounds.Mazes1.mazes</string>
+	<string>cl.yurai.playgrounds.mazes</string>
 	<key>Chapters</key>
 	<array>
 		<string>Introduction.playgroundchapter</string>

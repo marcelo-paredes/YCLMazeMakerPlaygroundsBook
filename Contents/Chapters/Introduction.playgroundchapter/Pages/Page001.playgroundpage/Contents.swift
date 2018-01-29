@@ -1,6 +1,7 @@
+//#-hidden-code
 //  Created by Marcelo Paredes on 1/23/18.
 //  Copyright © 2018, Marcelo Paredes, Yurai.CL. All rights reserved.
-////: [Previous](@previous)
+//#-end-hidden-code
 /*:
  # Maze Model Overview
 
@@ -20,7 +21,6 @@
  ### `| 0 | 1 | 2 |`
  ### `| 3 | 4 | 5 |`
  ### `| 6 | 7 | 8 |`
-
  */
 
 //: [Next](@next)
